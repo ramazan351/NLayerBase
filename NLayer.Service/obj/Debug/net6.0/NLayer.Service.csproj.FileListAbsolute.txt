@@ -1,0 +1,17 @@
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.deps.json
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.dll
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\bin\Debug\net6.0\NLayer.Service.pdb
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.dll
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.dll
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\bin\Debug\net6.0\NLayer.Repository.pdb
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\bin\Debug\net6.0\NLayer.Core.pdb
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.AssemblyReference.cache
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfoInputs.cache
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.AssemblyInfo.cs
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CoreCompileInputs.cache
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.csproj.CopyComplete
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.dll
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\obj\Debug\net6.0\refint\NLayer.Service.dll
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\obj\Debug\net6.0\NLayer.Service.pdb
+D:\dotnet_learning\NLayerCoreApp\NLayer.Service\obj\Debug\net6.0\ref\NLayer.Service.dll
