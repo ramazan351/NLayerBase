@@ -1,0 +1,12 @@
+D:\dotnet_learning\NLayerCoreApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.deps.json
+D:\dotnet_learning\NLayerCoreApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.dll
+D:\dotnet_learning\NLayerCoreApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.pdb
+D:\dotnet_learning\NLayerCoreApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.AssemblyReference.cache
+D:\dotnet_learning\NLayerCoreApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet_learning\NLayerCoreApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfoInputs.cache
+D:\dotnet_learning\NLayerCoreApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfo.cs
+D:\dotnet_learning\NLayerCoreApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.CoreCompileInputs.cache
+D:\dotnet_learning\NLayerCoreApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.dll
+D:\dotnet_learning\NLayerCoreApp\NLayer.Caching\obj\Debug\net6.0\refint\NLayer.Caching.dll
+D:\dotnet_learning\NLayerCoreApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.pdb
+D:\dotnet_learning\NLayerCoreApp\NLayer.Caching\obj\Debug\net6.0\ref\NLayer.Caching.dll

@@ -19,7 +19,7 @@ namespace NLayer.Repository.Configurations
             builder.Property(x=>x.Name).IsRequired().HasMaxLength(256);
             builder.Property(x=>x.Stock).IsRequired();
             builder.Property(x=>x.Price).IsRequired().HasColumnType("decimal(18,2)");
-            builder.HasOne(x => x.Category).WithMany(x => x.Products).HasForeignKey(x=> x.CategoryId); //product'un bir kaegorysi olabilir category'nin birden fazla kategorisi olabilir
+            builder.HasOne(x => x.Category).WithMany(x => x.Product).HasForeignKey(x=> x.CategoryId); //product'un bir kaegorysi olabilir category'nin birden fazla kategorisi olabilir
         }
     }
 }
