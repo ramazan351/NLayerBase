@@ -66,7 +66,7 @@ namespace NLayer.Repository.Migrations
                         });
                 });
 
-            modelBuilder.Entity("NLayer.Core.Product", b =>
+            modelBuilder.Entity("NLayer.Core.Products", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -163,10 +163,10 @@ namespace NLayer.Repository.Migrations
                     b.ToTable("ProductFeature");
                 });
 
-            modelBuilder.Entity("NLayer.Core.Product", b =>
+            modelBuilder.Entity("NLayer.Core.Products", b =>
                 {
                     b.HasOne("NLayer.Core.Category", "Category")
-                        .WithMany("Product")
+                        .WithMany("Products")
                         .HasForeignKey("CategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -176,21 +176,21 @@ namespace NLayer.Repository.Migrations
 
             modelBuilder.Entity("NLayer.Core.ProductFeature", b =>
                 {
-                    b.HasOne("NLayer.Core.Product", "Product")
+                    b.HasOne("NLayer.Core.Products", "Products")
                         .WithOne("ProductFeature")
                         .HasForeignKey("NLayer.Core.ProductFeature", "ProductId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Product");
+                    b.Navigation("Products");
                 });
 
             modelBuilder.Entity("NLayer.Core.Category", b =>
                 {
-                    b.Navigation("Product");
+                    b.Navigation("Products");
                 });
 
-            modelBuilder.Entity("NLayer.Core.Product", b =>
+            modelBuilder.Entity("NLayer.Core.Products", b =>
                 {
                     b.Navigation("ProductFeature")
                         .IsRequired();
