@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "6H6goavhMvHKpZitnSw+aGNwFGuuXBtrp3KP12NGdzE+5DmlQh/m5qC6pGNGAwfaCjELzgizoUIOGylfFWBPtQ==",
+  "dgSpecHash": "OhRwflq3xMK+kzOfWpwA731SqDzP/dN7u2hzXklxzrEkZgvS/YInFnfsWJKjro3rQImYqE6Z+lRHnJCuhLz/+w==",
   "success": true,
   "projectFilePath": "D:\\dotnet_learning\\NLayerCoreApp\\NLayer.API\\NLayer.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RAMAZANALTUN\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\RAMAZANALTUN\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\RAMAZANALTUN\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\RAMAZANALTUN\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",
+    "C:\\Users\\RAMAZANALTUN\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.6\\fluentvalidation.dependencyinjectionextensions.10.3.6.nupkg.sha512",
     "C:\\Users\\RAMAZANALTUN\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\RAMAZANALTUN\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\RAMAZANALTUN\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
